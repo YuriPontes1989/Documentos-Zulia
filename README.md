@@ -100,9 +100,9 @@ Zulia, tem muita semelhança com o jogo  Journey. Isso é devido ao jogo possuir
 
 Uma jovem chamada Zulia recebe uma visita de um espírito benevolente, nesta visita o espírito diz a ela que o futuro que  a aguarda não é bom, porém ele dá a ela uma chance de reverter  isso, mas alertando ela que para salvar seu povo sacrifícios tem que ser feito,uma alma em troca das outras.
 
-2.2 Jogador Principal
+##2.2 Jogador Principal
 
-##Zulia é a personagem principal da história
+Zulia é a personagem principal da história
 
 #3 Objetos Essenciais do Game
 
