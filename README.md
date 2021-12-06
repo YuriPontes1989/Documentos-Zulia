@@ -131,7 +131,7 @@ P. Schuytema. Design de games: uma abordagem prática. São Paulo: Cengage Learn
 
 ## Introdução: 
 
-##Breve descrição da história:
+## Breve descrição da história:
 Zulia tem a chance de voltar ao passado para resolver desafios que irão  evitar o colapso da terra em desastre naturais 
 
 ## Gênero: 
