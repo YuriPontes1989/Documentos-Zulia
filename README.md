@@ -113,3 +113,48 @@ O jogo será produzido para desktop
 # 9 Referências
 
 P. Schuytema. Design de games: uma abordagem prática. São Paulo: Cengage Learning, 2008.
+
+
+
+# HIGH CONCEPT -  Zulia
+
+## Games Coup
+
+                                                                            
+                                                           
+
+
+
+
+ # Resumo: 
+ Este documento (template) abordará  uma prévia descrição do nosso jogo chamado Zulia . De maneira que, demonstrará  seu gênero, história e mecânica. 
+
+## Introdução: 
+
+##Breve descrição da história:
+Zulia tem a chance de voltar ao passado para resolver desafios que irão  evitar o colapso da terra em desastre naturais 
+
+## Gênero: 
+Puzzle e Aventura
+
+## Mecânica:
+Zulia andará  em um mundo onde encontrará  dificuldades para prosseguir  para próxima fase,  sendo assim , ele terá que enfrentar diversos desafios e quebra-cabeças. 
+
+## Diferencial:
+O jogo mostrará e tentará ajudar a conscientização de que fazer sua parte mesmo que seja pouco no presente, lá na frente  irá dar ótimos resultados, em contrapartida caso você deixe de fazer algo hoje  a consequência  poderá ser grave.
+
+## Sistema operacional e Plataforma :
+Por enquanto o jogo está sendo desenvolvido para computadores; Steam e/ou Game Jolt.
+
+## Público alvo e faixa etária:
+Livre para todos os públicos, focado em pessoas que gostam de desafios.
+
+## Equipe:
+A equipe é composta por 5  integrantes.
+
+## Cronograma:
+1 ano para conclusão  do projeto
+
+
+
+
