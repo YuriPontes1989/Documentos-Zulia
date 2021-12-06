@@ -62,7 +62,7 @@ Zulia consiste em um jogo 3d onde o player irá controlar a personagem Zulia, no
 
 ## 1.2 Aspectos Fundamentais
 
-O jogador  andará com Zulia  pelo level onde ele poderá encontrar pistas para solucionar os desafios e quebra-cabeças;A jogabilidade de Zulia gira em torno  da mecânica  de quebra-cabeças.
+O jogador  andará com Zulia  pelo level e quando chegar perto de algum mecanismo de enigma Ixchel irá dar algumas pistas para solucionar os desafios e quebra-cabeças;A jogabilidade de Zulia gira em torno  da mecânica  de quebra-cabeças.
 
 ## 1.3 Golden Nuggets
 
@@ -72,7 +72,7 @@ Zulia, tem muita semelhança com o jogo  Journey. Isso é devido ao jogo possuir
 
 ## 2.1 História do Game
 
-Uma jovem chamada Zulia recebe uma visita de um espírito benevolente, nesta visita o espírito diz a ela que o futuro que  a aguarda não é bom, porém ele dá a ela uma chance de reverter  isso, mas alertando ela que para salvar seu povo sacrifícios tem que ser feito,uma alma em troca das outras.
+Uma jovem chamada Zulia recebe uma visita da deusa Ixchel , nesta visita  a deusa  diz a ela que o futuro que  a aguarda não é bom, porém Ixchel dá a ela uma chance de reverter  isso, mas alertando a Zulia que para salvar seu povo sacrifícios tem que ser feito,uma alma em troca das outras.
 
 ## 2.2 Jogador Principal
 
@@ -88,7 +88,7 @@ Chegará momentos no jogo no qual o jogador terá que completar os quebra-cabeç
 
 # 5 Fluxo de Jogo
  
-A personagem poderá andar, pular, interagir e empurrar para fins de resolver os quebra-cabeças. Basicamente o fluxo do game Zulia se resume em resoluções dos enigmas com interações com o cenário.
+A personagem poderá andar, pular, interagir  para fins de resolver os quebra-cabeças. Basicamente o fluxo do game Zulia se resume em resoluções dos enigmas com interações com o cenário.
 
 # 6 Variações do Jogo
 
@@ -138,7 +138,7 @@ Zulia tem a chance de voltar ao passado para resolver desafios que irão  evitar
 Puzzle e Aventura
 
 ## Mecânica:
-Zulia andará  em um mundo onde encontrará  dificuldades para prosseguir  para próxima fase,  sendo assim , ele terá que enfrentar diversos desafios e quebra-cabeças. 
+Zulia andará  em um mundo onde encontrará  dificuldades para prosseguir  para próxima fase,  sendo assim , ela terá que enfrentar diversos desafios e quebra-cabeças. 
 
 ## Diferencial:
 O jogo mostrará e tentará ajudar a conscientização de que fazer sua parte mesmo que seja pouco no presente, lá na frente  irá dar ótimos resultados, em contrapartida caso você deixe de fazer algo hoje  a consequência  poderá ser grave.
