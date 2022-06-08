@@ -49,6 +49,8 @@
 
 8.3 	PLATAFORMA DO JOGO………………………………………………………..11
 
+8.4      MULTIPLAYER…………………………………………………………………….11
+
 9	REFERÊNCIAS…………………………………………………………………….12
 
 
@@ -106,9 +108,14 @@ Livre para todas as idades e público alvo para todos
 
 O  gênero do jogo é aventura com puzzle
 
-## .3 Plataforma que o jogo será executado
+## 8.3 Plataforma que o jogo será executado
 
 O jogo será produzido para desktop
+
+## 8.4 Multiplayer
+
+Pensando no protótipo que um dia Zulia foi, era chamado de Past o game foi pensado inicialmente com uma  pegada de multiplayer onde estariam dois jogadores em dois mapas diferentes mapa, um  no presente e outro no passado, o que o jogador número 1 fizesse  no passado alterava  no  mapa do presente; Sendo Assim o jogo teria esse fluxo com resolução de puzzles.
+
 
 # 9 Referências
 
