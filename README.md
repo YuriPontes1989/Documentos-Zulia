@@ -51,6 +51,8 @@
 
 8.4      MULTIPLAYER…………………………………………………………………….11
 
+8.5 CRÉDITOS...........................11
+
 9	REFERÊNCIAS…………………………………………………………………….12
 
 
@@ -115,6 +117,10 @@ O jogo será produzido para desktop
 ## 8.4 Multiplayer
 
 Pensando no protótipo que um dia Zulia foi, era chamado de Past o game foi pensado inicialmente com uma  pegada de multiplayer onde estariam dois jogadores em dois mapas diferentes mapa, um  no presente e outro no passado, o que o jogador número 1 fizesse  no passado alterava  no  mapa do presente; Sendo Assim o jogo teria esse fluxo com resolução de puzzles.
+
+## 8.5 Créditos
+
+Alguns assets para compor o game Zulia foram pegos na Asset Store Unreal, creditamos e agradecemos aos criadores : NadirFx, Polyart Studio;Sons foram pegos no site da FreeSound animações foram pegas no mixamo. 
 
 
 # 9 Referências
